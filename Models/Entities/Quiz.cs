@@ -27,9 +27,8 @@ namespace SimpleMathQuizzesAPI.Entities
 
             * Package 'DataAnnotationsExtensions 5.0.1.27' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.
 
-         * This data annotation has been tested, and it is currently* working as intended
-         * *27/03/2024
-        */
+         * This data annotation has been tested, and it is currently (27/03/2024) working as intended
+         */
         public int Score { get; set; }
 
         // Navigational property

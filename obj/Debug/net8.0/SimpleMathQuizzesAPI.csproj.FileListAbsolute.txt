@@ -247,3 +247,4 @@ C:\Users\jasde\source\repos\SimpleMathQuizzesAPI\obj\Debug\net8.0\ref\SimpleMath
 C:\Users\jasde\source\repos\SimpleMathQuizzesAPI\bin\Debug\net8.0\DataAnnotationsExtensions.dll
 C:\Users\jasde\source\repos\SimpleMathQuizzesAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\jasde\source\repos\SimpleMathQuizzesAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jasde\source\repos\SimpleMathQuizzesAPI\obj\Debug\net8.0\SimpleMathQuizzesAPI.sourcelink.json

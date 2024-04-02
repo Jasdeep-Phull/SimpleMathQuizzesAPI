@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SimpleMathQuizzesAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3b55abe8e6e2c8ae261b81e4369d59137fa1ce2")]
 [assembly: System.Reflection.AssemblyProductAttribute("SimpleMathQuizzesAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SimpleMathQuizzesAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
